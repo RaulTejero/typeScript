@@ -1,0 +1,10 @@
+// crear opciones de compilacion
+{
+    "compilerOptions": {
+        "target": "ES6", // version js
+        "outDir": "build", // directorio donde crear los js
+        "noEmitOnError": false // en caso de error no compiles
+    }
+}
+
+// A partir desde ahora desde la raiz del proyecto ejecutar  $ tsc  y compilara todos los archivos  .ts creando los archivos .js en la carpeta build como se indica en el json.
