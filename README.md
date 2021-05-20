@@ -4,7 +4,7 @@ Aprende TypeScript
 
 - 1º instalar nodeJS.
 - 2º npm install -g typescript.
-- 3º npm install -g ts-node (opcional)
+- 3º npm install -g ts-node (opcional).
 - 4º descargar repositorio.
 
 
